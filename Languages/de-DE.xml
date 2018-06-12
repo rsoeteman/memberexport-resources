@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<language alias="en" intName="English (GB)" localName="English (GB)" lcid="" culture="en-GB">
+<language alias="de" intName="German (DE)" localName="Deutsch (DE)" lcid="7" culture="de-DE">
 	<creator>
 		<name>Soeteman software</name>
 		<link>https://github.com/rsoeteman/memberexport-resources</link>
