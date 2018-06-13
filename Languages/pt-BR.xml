@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<language alias="pt" intName="Portuguese Brazil" localName="Portuguese Brazil" lcid="" culture="pt-BR">
+	<creator>
+		<name>Soeteman software</name>
+		<link>https://github.com/rsoeteman/memberexport-resources</link>
+	</creator>
+	<area alias="memberExportGeneral">
+		<key alias="csvNoTextIndicator">No Text Indicator</key>
+		<key alias="exportOptionsCaption">Export Options</key>
+		<key alias="csvSeperatorProperty">Field Seperator</key>
+		<key alias="csvTextIndicatorProperty">Text Indicator</key>
+		<key alias="exportButtonCaption">Export</key>
+		<key alias="exportMemberFieldsCaption">Export properties</key>
+		<key alias="memberCreatedByProperty">Created by</key>
+		<key alias="memberCreatedProperty">Created</key>
+		<key alias="memberEmailProperty">Email</key>
+		<key alias="memberExportPROTitle">Member Export Pro V3.0.0</key>
+		<key alias="memberExportSaveAs">Save As</key>
+		<key alias="memberExportSaved">Saved</key>
+		<key alias="memberExportTitle">Member Export V3.0</key>
+		<key alias="memberGroupCaption">Select member groups</key>
+		<key alias="memberIdProperty">Id</key>
+		<key alias="memberLoginProperty">Login</key>
+		<key alias="memberNameProperty">Name</key>
+		<key alias="memberPasswordProperty">Password</key>
+		<key alias="memberTypeDropDownCaption">Select member type</key>
+		<key alias="proEditionInfo">This is the free edition of Member Export which is limited to export only 200 record, can only export to csv and cannot save export options for later use. &lt;a href="http://memberexport.soetemansoftware.nl/" target="new"&gt;Buy the pro version&lt;/a&gt; today!</key>
+		<key alias="savedExports">Saved exports</key>
+		<key alias="speechbubbleDeletedCaption">deleted</key>
+		<key alias="speechbubbleDeletedHeader">Item deleted</key>
+		<key alias="formValidationErrorMessage">* Select at least one membergroup and at least one field to export&lt;br/&gt;&lt;nr/&gt;</key>
+		<key alias="invalidLicenseExceptionMessage">We are very sorry, but we couldn't validate your MemberExport Pro license.&lt;br/&gt;&lt;br/&gt; Make sure you have purchased a license for the (sub)domain &lt;strong&gt;"{0}"&lt;/strong&gt; or an Enterprise License</key>
+		<key alias="invalidMembershipproviderMessage">We are very sorry, but MemberExport only works with the default Umbraco Membership provider</key>
+		<key alias="noFieldsToExport">No fields found to export.</key>
+		<key alias="noGroupsDefined">No membergroups defined</key>
+		<key alias="noTypesDefined">No membertypes defined. You have to create at least one membertype before you can continue</key>
+		<key alias="exportAs">Export as</key>
+		<key alias="memberExportTreeCaption">Export members</key>
+		<key alias="memberGroupsProperty">Member groups</key>
+		<key alias="memberTypeProperty">Member type</key>
+		<key alias="MemberExportSaveAsRequired">Save as is required</key>
+		<key alias="saveCreateCopy">Create copy</key>
+		<key alias="crudLicenseError">Sorry you can't export without fixing the license issue first.</key>
+	</area>
+</language>
+
+
