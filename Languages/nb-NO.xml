@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<language alias="no" intName="Norwegian" localName="norsk" lcid="20" culture="nb-NO">
+<language alias="en" intName="English (UK)" localName="English (UK)" lcid="" culture="en-GB">
 	<creator>
 		<name>Soeteman software</name>
 		<link>https://github.com/rsoeteman/memberexport-resources</link>
@@ -16,6 +16,7 @@
 		<key alias="memberEmailProperty">Email</key>
 		<key alias="memberExportPROTitle">Member Export Pro V3.0.0</key>
 		<key alias="memberExportSaveAs">Save As</key>
+		<key alias="memberExportSavedHeader">Export definition</key>
 		<key alias="memberExportSaved">Saved</key>
 		<key alias="memberExportTitle">Member Export V3.0</key>
 		<key alias="memberGroupCaption">Select member groups</key>
@@ -41,7 +42,7 @@
 		<key alias="MemberExportSaveAsRequired">Save as is required</key>
 		<key alias="saveCreateCopy">Create copy</key>
 		<key alias="crudLicenseError">Sorry you can't export without fixing the license issue first.</key>
+		<key alias="optionTrue">True</key>
+		<key alias="optionFalse">False</key>
 	</area>
 </language>
-
-
