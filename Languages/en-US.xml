@@ -4,6 +4,9 @@
 		<name>Soeteman software</name>
 		<link>https://github.com/rsoeteman/memberexport-resources</link>
 	</creator>
+	<area alias="treeHeaders">
+		<key alias="memberexport">Export members</key>	
+	</area>
 	<area alias="memberExportGeneral">
 		<key alias="csvNoTextIndicator">No Text Indicator</key>
 		<key alias="exportOptionsCaption">Export Options</key>
