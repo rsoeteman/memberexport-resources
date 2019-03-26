@@ -17,11 +17,11 @@
 		<key alias="memberCreatedByProperty">Created by</key>
 		<key alias="memberCreatedProperty">Created</key>
 		<key alias="memberEmailProperty">Email</key>
-		<key alias="memberExportPROTitle">Member Export Pro V3.0.0</key>
+		<key alias="memberExportPROTitle">Member Export Pro V3.8</key>
 		<key alias="memberExportSaveAs">Save As</key>
 		<key alias="memberExportSavedHeader">Export definition</key>
 		<key alias="memberExportSaved">Saved</key>
-		<key alias="memberExportTitle">Member Export V3.0</key>
+		<key alias="memberExportTitle">Member Export V3.8</key>
 		<key alias="memberGroupCaption">Select member groups</key>
 		<key alias="memberIdProperty">Id</key>
 		<key alias="memberLoginProperty">Login</key>
